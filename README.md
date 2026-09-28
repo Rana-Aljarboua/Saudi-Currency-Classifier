@@ -2,7 +2,7 @@
 
 A real-time computer vision application that **recognizes Saudi banknotes and coins from a webcam feed** using **PyTorch, ResNet-18, and OpenCV**.
 
-The application captures a currency image, classifies its denomination, displays the **prediction and confidence score**, and tracks the detected **Sum and Total** in real time.
+The application captures frames from a webcam, classifies the detected currency denomination, displays the prediction and confidence score, and tracks the detected Sum and Total in real time.
 
 **~84% Validation Accuracy | 12 Currency Classes | Real-Time Inference**
 
