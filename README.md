@@ -210,14 +210,15 @@ If the webcam is assigned to a different camera index, this value can be changed
 
 ## Technologies
 
-| Category          | Technologies         |
-| ----------------- | -------------------- |
-| Programming       | Python               |
-| Deep Learning     | PyTorch, Torchvision |
-| Computer Vision   | OpenCV               |
-| Data Processing   | NumPy, Pandas        |
-| Data Augmentation | Albumentations       |
-| Development       | Jupyter Notebook     |
+| Category          | Technologies                         |
+| ----------------- | ------------------------------------ |
+| Programming       | Python                               |
+| Deep Learning     | PyTorch, Torchvision                 |
+| Computer Vision   | OpenCV                               |
+| Data Processing   | NumPy, Pandas                        |
+| Data Augmentation | Albumentations                       |
+| Development       | Visual Studio Code, Jupyter Notebook |
+
 
 ---
 
